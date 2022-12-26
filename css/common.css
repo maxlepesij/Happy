@@ -1,0 +1,130 @@
+.button{
+    display:inline-block;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    background-color: #222222;
+    border-radius: 4px;
+    color: #fff;
+    transition: all 0.3s ease 0s;
+    border: 2px solid #222222a9;
+    font-weight: 600;
+}
+.button:hover{
+    background-color: rgba(255, 255, 255, 0);
+}
+.black__button:hover{
+    background-color: rgba(255, 255, 255, 0);
+    color: #222222;
+}
+/* -------------------- */
+.icon-blue {
+    background: #0278ED;
+}
+.icon-orange {
+    background: #FF5437;
+}
+.icon-yellow {
+    background: #FF9209;
+}
+.icon-pink {
+    background: #E738CE;
+}
+.icon-turquoise {
+    background: #00C6DF;
+}
+.icon-violet {
+    background: #B25DF8;
+}
+/* --------------------- */
+.column__title-blue {
+    color: #0278ED;
+}
+.column__title-orage {
+    color: #FF5437;
+}
+.column__title-yellow {
+    color: #FF9209;
+}
+.column__title-pink {
+    color: #E738CE;
+}
+.column__title-turquoise {
+    color: #00C6DF;
+}
+.column__title-violet {
+    color: #E738CE;
+}
+/* ------------------------ */
+.sub-title{
+    font-size: 32px;
+    line-height: 36px;
+}
+.title{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.text{
+    font-size: 18px;
+}
+/* ----------------------- */
+.progress{
+    padding: 100px 0 0 0;
+}
+.progress__container{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.progress__content{
+    max-width: 403px;
+    flex: 1 1 auto;
+}
+/* ----------------- */
+.type-blue {
+    color: #0278ED;
+}
+.type-orange {
+    color: #FF5437;
+}
+.type-yellow {
+    color: #FF9209;
+}
+/* ------------------ */
+.price-blue {
+    color: #0278ED;
+}
+.price-orange {
+    color: #FF5437;
+}
+.price-yellow {
+    color: #FF9209;
+}
+/* ------------------- */
+.button__blue {
+    background-color: #0278ED; 
+    border: 2px solid  #0278ED;
+}
+.button__blue:hover{
+    color: #0278ED;
+}
+.button__orange {
+    background-color: #FF5437;
+    border: 2px solid  #FF5437;
+}
+.button__orange:hover{
+    color: #FF5437;
+}
+.button__yellow {
+    background-color: #FF9209;
+    border: 2px solid  #FF9209;
+}
+.button__yellow:hover{
+    color: #FF9209;
+}

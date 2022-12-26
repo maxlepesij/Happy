@@ -333,6 +333,11 @@ body{
 .dark-title {
     color:#FFFFFF ;
 }
+@media (max-width: 728.98px){
+    .dark {
+        padding: 40px 0px 60px 0px;
+    }
+}
 /* ---------------------- */
 .pricing {
     padding: 100px 0px;
